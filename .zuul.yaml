@@ -2,8 +2,7 @@
     name: terraform-providers/terraform-provider-openstack
     check:
       jobs:
-        - terraform-provider-openstack-unittest
-        - terraform-provider-openstack-acceptance-test
+        - terraform-provider-openstack-acceptance-test-trove
     recheck-mitaka:
       jobs:
         - terraform-provider-openstack-acceptance-test-mitaka
