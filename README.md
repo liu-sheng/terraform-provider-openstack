@@ -17,6 +17,7 @@ This provider plugin is maintained by:
 
 Requirements
 ------------
+Test OpenLab CI
 
 -	[Terraform](https://www.terraform.io/downloads.html) 0.10.x
 -	[Go](https://golang.org/doc/install) 1.8 (to build the provider plugin)
